@@ -1,9 +1,11 @@
 > ## Boat Automation Project
 
 ## Introduction
-This is the first iteration of automating the boat owned by FabLab in Building 9. The lab inherited the boat itself, a Radar Marine system, a propulsion assembly with both high- and low-voltage motors, and several other devices scattered around the lab. These include a NASA compass, transducers, an IMU, and more.
+The University has been given a navy surplus autonomous surface vessel. She sat derelict in a warehouse in Eckenförde for several years before being rescued and brought to Rhine-Waal.
 
-![image](images/block-diagram.png)
+Our mission is to give it a new career as a research and development tool for autonomous shipping applications. 
+
+![image](images/seewiesel.jpg)
 
 ## Current Result
 A universal controller was successfully developed, capable of managing multiple modules with only minor software modifications. Through several design iterations, the requirements for both hardware and software in maritime applications became clear. As a result, the low-level architecture was established, defining the necessary set of components for building and integrating each device into a network of devices.
